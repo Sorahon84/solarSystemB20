@@ -1,0 +1,19 @@
+Index: test/java/SolarSystem.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class SolarSystem {\n    public static void main(String[] args) {\n        BasicStructure solar =new BasicStructure();\n        solar.Sun=\"1\";\n        solar.Moon=\"1\";\n        solar.Planet=\"2\";\n\n        \n        featureSun Archilies=new featureSun();\n        Archilies.color=\"Red\";\n        Archilies.size=\"50meters\";\n        Archilies.temp=\"90000000\";\n        planet1 slayer =new planet1();\n\n\n        slayer.color=\"green\";\n        slayer.temp=\"-908k\";\n\n    }\n\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test/java/SolarSystem.java b/test/java/SolarSystem.java
+--- a/test/java/SolarSystem.java	(revision 469d7019ee7aff925d7505b9637e209de1d0d31b)
++++ b/test/java/SolarSystem.java	(date 1731865037294)
+@@ -5,7 +5,7 @@
+         solar.Moon="1";
+         solar.Planet="2";
+ 
+-        
++
+         featureSun Archilies=new featureSun();
+         Archilies.color="Red";
+         Archilies.size="50meters";
