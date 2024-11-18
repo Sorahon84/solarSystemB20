@@ -5,7 +5,7 @@ public class SolarSystem {
         solar.Moon="1";
         solar.Planet="2";
 
-        
+
         featureSun Archilies=new featureSun();
         Archilies.color="Red";
         Archilies.size="50meters";
